@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İdil</h1>
 <h3 align="center">A passionate Mobile and front-end developer from Turkey</h3>
 
-- All of my projects are available at [https://github.com/idilacik](https://github.com/idilacik)
+- All of my projects are available at https://github.com/idilacik?tab=repositories
 
 - How to reach me **idilacik@gmail.com**
 
